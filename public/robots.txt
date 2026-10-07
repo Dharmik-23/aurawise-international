@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Host Specification
+Host: https://aurawise.international
+
+# XML Sitemap Index
+Sitemap: https://aurawise.international/sitemap.xml

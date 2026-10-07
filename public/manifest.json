@@ -1,0 +1,19 @@
+{
+  "name": "AuraWise International — Overseas Education & Global Migration Advisory",
+  "short_name": "AuraWise",
+  "description": "India's premier international education and legal immigration consultancy since 2009. Expert guidance for Student Visas, Permanent Residency, Work Permits, and University Admissions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05070B",
+  "theme_color": "#05070B",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "business", "travel"]
+}
